@@ -5,6 +5,10 @@ def print_pyramid():
     #  ***
     # *****
     pass
+print("  *")
+print(" ***")
+print("*****")
+
 
 def main():
     print_pyramid()
