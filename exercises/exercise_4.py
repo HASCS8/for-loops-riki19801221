@@ -8,6 +8,7 @@ def print_rectangle():
 i=1
 for i in range(1,4):
     print("***")
+    i+1
 
 def main():
     print_rectangle()
