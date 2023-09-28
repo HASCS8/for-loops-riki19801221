@@ -1,5 +1,9 @@
 def print_fruits():
     # Your task is to create a list of 5 fruits and use a for loop to iterate over the list and print each fruit.
+    fruits = ['Apple', 'Banana', 'Cherry', 'Date', 'Elderberry']
+    for i in fruits:
+        print(i)
+    
     pass
 
 def main():
