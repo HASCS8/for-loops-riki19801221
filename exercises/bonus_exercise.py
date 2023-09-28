@@ -12,6 +12,7 @@ def print_pyramid():
             print("*", end="")
         print ()
 
+
 def main():
     print_pyramid()
 
