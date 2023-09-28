@@ -4,10 +4,9 @@ def print_pyramid():
     #   *
     #  ***
     # *****
-    pass
-print("  *")
-print(" ***")
-print("*****")
+    print("  *")
+    print(" ***")
+    print("*****")
 
 
 def main():
